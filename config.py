@@ -1,2 +1,2 @@
 WTF_CSRF_ENABLED = True
-SECRET_KEY = 'Docstring1154'
+SECRET_KEY = 'TheMostSecretKey'
